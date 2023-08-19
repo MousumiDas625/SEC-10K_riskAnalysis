@@ -1,1 +1,0 @@
-This folder will contain the extraction code exclusively, such that the data can be extracted in chunks of 5000 and then each group of data will be uploaded. This uses the links10K dataframe, that contains the data and links of 10K fies only.
